@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lenamakesart&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=80ffff)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **quartsel/quartsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
