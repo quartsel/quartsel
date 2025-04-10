@@ -1,6 +1,4 @@
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```yaml
 
 
@@ -39,8 +37,8 @@ current_obsessions:
 ```yaml
 GitHub Stats:
 ```
-![](https://github-readme-stats.vercel.app/api?username=quartsel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=quartsel&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=quartsel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=quartsel&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quartsel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ```yaml
 💻 Tech Stack:
