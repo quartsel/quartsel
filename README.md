@@ -7,32 +7,15 @@
 |   |/ ._>| || |/ . \ | | | |/ . \| '_>| |/ . ||_/
 |_|_|\___.|_||_|\___/ |__/_/ \___/|_|  |_|\___|<_>
 
+lena = {
+    location: "Austria"
+    code: ["Python", "SQL", "Javascript", "C#"],
+    askMeAbout: ["UX", "UI", "webdev", "data science", "foreign relations"],
+    currentFocus: "Working towards finihing my Bachelors next year while pursuing my passions",
+    currentlyReading: ["Prisoners of Geography", "The Restaurant at the End of the Universe"],
+    currentObsessions: ["Reading", "Design Methodology", "Gruvbox themes", "Ireland"]
+}
 
-name: Lena Handschuh
-located_in: Austria
-currently_studying: Full-time Informatics Major
-education:
-  [
-    "Leaving Cert with an average of 1.0",
-    "ETA 2026 Bachelors in Informatics"
-  ]
-
-interests:
-  [
-    "UX",
-    "UI",
-    "Web Dev",
-    "Data Science",
-    "Foreign Relations"
-  ]
-
-current_obsessions:
-  [
-    "Reading",
-    "Design Methodology",
-    "Gruvbox themes",
-    "Ireland"
-]
 ```
 ```yaml
 GitHub Stats:
